@@ -21,6 +21,13 @@ const links = [
     cta: "Connecter"
   },
   {
+    title: "Instagram",
+    sub: "UX/UI ",
+    url: "https://www.instagram.com/devreal.pro/",
+    icon: "📷",
+    cta: " Voir"
+  },
+  {
     title: "Contact",
     sub: "Mail pro",
     url: "mailto:devreal.pro@gmail.com",
